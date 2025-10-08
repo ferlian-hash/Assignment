@@ -1,4 +1,4 @@
-1. User Interface (Score: 4/4)
+1. User Interface 
 
 Includes a Navigation Bar (Tab Bar) created dynamically using React useState.
 
@@ -10,7 +10,7 @@ Has an About Page that provides additional information about the project.
 
 The overall interface is responsive, modular, and easy to maintain.
 
-2. Themes (Score: 3/3)
+2. Themes 
 
 Supports both Light Mode and Dark Mode.
 
@@ -20,8 +20,7 @@ Background and text colors automatically adjust according to the selected mode.
 
 The design follows a modern, clean approach using Tailwind CSS or CSS variables.
 
-3. Hamburger Menu (Score: 3/3)
-
+3. Hamburger Menu 
 Implemented through the hamburgermenu.tsx component for responsive navigation.
 
 Uses CSS Transform and translateX effects for smooth open/close animations.
@@ -30,7 +29,7 @@ Controlled with React useState to toggle the menu’s visibility.
 
 The design is simple, interactive, and mobile-friendly.
 
-4. Tabs Page (Operations) (Score: 6/6)
+4. Tabs Page (Operations)
 
 Allows users to create up to 15 tabs dynamically.
 
