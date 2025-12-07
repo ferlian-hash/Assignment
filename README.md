@@ -30,7 +30,7 @@ Controlled with React useState to toggle the menu’s visibility.
 
 The design is simple, interactive, and mobile-friendly.
 
-4. Tabs Page (Operations) 
+
 
 Allows users to create up to 15 tabs dynamically.
 
