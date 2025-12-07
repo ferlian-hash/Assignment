@@ -1,0 +1,7 @@
+-- CreateTable
+CREATE TABLE "PlayerResult" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "name" TEXT NOT NULL,
+    "score" INTEGER NOT NULL,
+    "finishedAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
