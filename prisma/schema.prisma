@@ -8,8 +8,8 @@ datasource db {
 }
 
 model PlayerResult {
-  id          Int      @id @default(autoincrement())
-  name        String
-  score       Int
-  finishedAt  DateTime @default(now())
+  id         Int      @id @default(autoincrement())
+  name       String
+  score      Int
+  finishedAt DateTime @default(now())
 }
